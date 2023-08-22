@@ -1,4 +1,4 @@
-package Creational.Adapter.Java.FittingHole;
+package Structural.Adapter.Java.FittingHole;
 
 public class SquarePeg {
     int radius;

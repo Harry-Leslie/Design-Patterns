@@ -1,4 +1,4 @@
-package Creational.Adapter.Java.BankTransferAPI;
+package Structural.Adapter.Java.BankTransferAPI;
 
 public class NewCreditAPI {
 
