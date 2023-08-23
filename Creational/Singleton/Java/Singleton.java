@@ -1,4 +1,4 @@
-package Creationals.Singleton.Java;
+package Creational.Singleton.Java;
 
 public class Singleton {
     private static Singleton instance;
