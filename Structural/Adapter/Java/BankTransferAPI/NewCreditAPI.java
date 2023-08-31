@@ -6,7 +6,6 @@ public class NewCreditAPI {
         System.out.println("Credit Card Info Given");
     }
 
-    
     public void getCreditScore() {
         System.out.println("Credit Score has been given out");
     }

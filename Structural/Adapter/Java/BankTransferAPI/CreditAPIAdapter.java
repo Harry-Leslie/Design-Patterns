@@ -1,6 +1,6 @@
 package Structural.Adapter.Java.BankTransferAPI;
 
-public class CreditAPIAdapter  implements ICreditAPI{
+public class CreditAPIAdapter implements ICreditAPI{
 
     NewCreditAPI newCreditAPI;
 

@@ -6,7 +6,7 @@ public class Client {
         NewCreditAPI newCreditAPI = new NewCreditAPI();
         CreditAPIAdapter creditAPIAdapter = new CreditAPIAdapter(newCreditAPI);
 
-        // Incompatible Interface
+        // Interface
         creditAPI.getCreditDetails();
         creditAPI.getCreditScore();
         creditAPI.giveMoney(4);
